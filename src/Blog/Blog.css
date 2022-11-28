@@ -1,0 +1,26 @@
+.blog-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+}
+
+@media screen and (max-width: 1200px) and (min-width: 801px) {
+
+    .blog-container{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-gap: 10px;
+    }
+    
+
+}
+@media screen and (max-width: 800px) and (min-width: 401px) {
+
+    .blog-container{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        grid-gap: 10px;
+    }
+    
+
+}

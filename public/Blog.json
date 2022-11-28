@@ -1,0 +1,49 @@
+[
+    {
+        "id": "1",
+        "category": "ffdg ",
+        "name": "Bike",
+        "Description": "In the past animals were being used to travel which made the whole process quite difficult. However, at present majority of the individuals are travelling because of the new updated facilities being provided which made transport quite convenient and at the same time it provided an affordable package as well. ",
+
+        "price": "46",
+        "img":"https://imgd.aeplcdn.com/370x208/n/cw/ec/124863/ninja-400-right-front-three-quarter.gif?isig=0&q=75"
+        
+        
+       
+      },
+      {
+        "id": "2",
+        "category": "ffdg ",
+        "name": "Car",
+        "Description": "A number of people believe that animal experimentation should be lawful for scientific studies as it helps to discover beneficial knowledge, while others hold the opposite view and think this is wrong. I think that any kind of experiment on animals is inhumane and scientists should look at other alternatives such as plant-based research instead.",
+        
+        "price": "76",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQbUdrqKXKe8P2mXMEtFULjJ6EGfEz-_8ag9alV1HvDO5r3GU3yft146AAgsqySYHU6w&usqp=CAU"
+       
+       
+      },
+      {
+        "id": "3",
+        "category": "ffdg ",
+        "name": "Train",
+        "Description": "Sticking to a social media content calendar becomes tenfold easier when you start scheduling Facebook posts in advance. It helps you with consistency, staying on top of the schedule, and avoiding long timeline gaps with little to no effort!",
+        
+        "price": "46",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxZi5N1CQclH0E1OgbW7cN69K8EGwIiUyALGEEUQPdTgJjGpgw7Wb3vYb2zkM5Q4YXd7k&usqp=CAU"
+       
+       
+      },
+      {
+        "id": "4",
+        "category": "ffdg ",
+        "name": "Bus",
+        "Description": "Sticking to a social media content calendar becomes tenfold easier when you start scheduling Facebook posts in advance. It helps you with consistency, staying on top of the schedule, and avoiding long timeline gaps with little to no effort!",
+        
+        "price": "36",
+        "img":"https://media.istockphoto.com/id/135327019/photo/white-passenger-bus.jpg?s=612x612&w=0&k=20&c=sRU5BpOsY6fyYj9pMiAxz0dLML--uoNl7rIXelRbFnc="
+       
+       
+      }
+   
+    ]
+     

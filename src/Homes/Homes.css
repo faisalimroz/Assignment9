@@ -1,0 +1,13 @@
+.card-vehicle{
+    height: 200px;
+    width: auto;
+    background-color: whitesmoke;
+    padding: 10px;
+    margin-top: 150px;
+    margin-left: 20px ;
+    margin-right:20px ;
+}
+.card-vehicle img{
+    height:150px;
+    width: auto;
+}
